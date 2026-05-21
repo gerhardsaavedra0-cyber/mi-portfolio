@@ -3,10 +3,12 @@ import ProjectCard from "./ProjectCard.jsx"
 
 const projects = [
   {
-    title: "Task Manager App (En proceso)",
-    description: "Aplicación fullstack para crear, editar y eliminar tareas.",
+    title: "Task Manager App",
+    description: "Aplicación para gestionar tareas con React y localStorage.",
     image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=900&q=80",
-    tech: ["React", "Node.js", "MongoDB"],
+    tech: ["React", "TailwindCSS", "JavaScript"],
+    demo: "https://task-manager-app-ten-iota.vercel.app",
+    github: "https://github.com/gerhardsaavedra0-cyber/task-manager-app",
   },
   {
     title: "E-commerce Básico (En proceso)",
