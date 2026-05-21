@@ -16,14 +16,14 @@ function Hero() {
         </p>
         <div className="flex justify-center gap-4 mt-8">
   <a
-    href="#"
+    href="https://github.com/gerhardsaavedra0-cyber"
     className="bg-cyan-400 text-slate-950 px-6 py-3 rounded-xl font-semibold hover:bg-cyan-300 transition"
   >
     GitHub
   </a>
 
   <a
-    href="#"
+    href="https://www.linkedin.com/in/gerhard-ediver-saavedra-pretell-30aa60408/"
     className="border border-white/20 px-6 py-3 rounded-xl font-semibold hover:border-cyan-400 hover:text-cyan-400 transition"
   >
     LinkedIn
