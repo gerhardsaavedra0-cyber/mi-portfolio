@@ -24,14 +24,14 @@ function ProjectCard({ project }) {
 
       <div className="flex gap-3">
         <a
-          href="#"
+          href={project.demo}
           className="bg-cyan-400 text-slate-950 px-4 py-2 rounded-lg font-semibold"
         >
           Live Demo
         </a>
 
         <a
-          href="#"
+          href={project.github}
           className="border border-white/20 px-4 py-2 rounded-lg font-semibold"
         >
           GitHub
